@@ -183,7 +183,7 @@ void displaySlopeIntercept(Line* line)
 
 /***************************************
 	Purpose: Prompts the user to enter two points that define a line and call functions to
-	calculate the slope of the line and the y-intercept, calculate the line’s 
+	calculate the slope of the line and the y-intercept, calculate the lineâ€™s 
 	length, angle, and degrees, and return the line
 	@param: 
 	@return: Line structure containing pointOne and pointTwo
